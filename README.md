@@ -1,8 +1,14 @@
-# React + Vite
+# TODO - List
+![image](https://github.com/curecode11/To-Do-web/assets/118065498/1763a0c6-3634-4d11-95e4-ae676add2dac)
+  A very basic react todo application made only in React, JavaScript and some CSS .
+<hr>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<center>
+  <h3>Used concepts like <b><em>useState</em></b> and <b><em>useRef</em></b> hooks.</h1>
+  <h3>Decreased the re-rendering significantly by <em>60% - 80%</em> by using useRef hook for taking input string</h3>
+</center>
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<div align="center">
+  
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vscode,git&perline=3)](https://skillicons.dev)
+</div>
